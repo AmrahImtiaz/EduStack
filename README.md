@@ -92,8 +92,3 @@ A collection of powerful tools and resources designed to help students excel in 
 
 Feel free to contribute! Submit a pull request with your recommended tools or improvements.
 
----
-
-## License 📄
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
